@@ -1,4 +1,4 @@
-## Hey there, I'm Alyssa! 👋
+# Hey there, I'm Alyssa! 👋
 I'm currently a Computer Science student at the University of Waterloo specializing in Business. I'm a software developer who enjoys baking and bullet journaling in my free time. Currently, I am interning as a Data Engineer at [Ritual](https://ritual.co/).
 
 ### 🌱 Currently working on:

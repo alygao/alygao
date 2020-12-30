@@ -1,7 +1,9 @@
-# Hey there, I'm Alyssa! 👋
+# Hello, I'm Alyssa! 👋
+<img align='right' src="https://64.media.tumblr.com/93b94b02cf5a55c5f0fe560a7786eceb/tumblr_mjmelbZnz71rzy67oo1_540.gifv" width="200">
+
 I'm currently a Computer Science student at the University of Waterloo specializing in Business. I'm a software developer who enjoys baking and bullet journaling in my free time. Currently, I am interning as a Data Engineer at [Ritual](https://ritual.co/).
 
-### 🌱 Currently working on:
+### 🌱 Currently Working On:
 - Lo-fi Station
 - Personal Website
 

@@ -7,7 +7,7 @@ I'm currently a Computer Science student at the University of Waterloo specializ
 - Lo-fi Station
 - Personal Website
 
-### 💻 Core Skills:
+### ✨ Core Skills:
 - **Languages/Technologies:** Java/JavaEE, SQL, R, Python, C/C++, HTML5, CSS3, JavaScript, TypeScript, REST API
 - **Frameworks:** Spring Framework, Spring Data, Spring Boot, Angular 10, ReactJS, Node.js, Django
 - **Tools:** Eclipse, Visual Studio Code, Pycharm, Git, Tomcat, Postman, MS-Office, R Studio, Gantt Chart, Maven, Figma, Adobe (Photoshop, Illustrator)

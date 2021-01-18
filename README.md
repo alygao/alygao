@@ -1,5 +1,6 @@
 # Hello, I'm Alyssa! 👋
-<img align='right' src="https://64.media.tumblr.com/93b94b02cf5a55c5f0fe560a7786eceb/tumblr_mjmelbZnz71rzy67oo1_540.gifv" width="200">
+<img src="https://64.media.tumblr.com/37a80505fd5360bd3c1cd23fef853edb/tumblr_orzopfBwyj1s35qyfo1_640.gifv">
+<img align='right' src="https://media2.giphy.com/media/tITrJUuCDr1bpNjIVi/source.gif" width="300">
 
 I'm currently a Computer Science student at the University of Waterloo specializing in Business. I'm a software developer who enjoys baking and bullet journaling in my free time. Currently, I am interning as a Data Engineer at [Ritual](https://ritual.co/).
 

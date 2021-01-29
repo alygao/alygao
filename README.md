@@ -23,7 +23,7 @@ I'm currently a Computer Science student at the University of Waterloo specializ
 {
   "languages": "Java, SQL, R, Python, C/C++, HTML, CSS, Javascript, TypeScript",
   "frameworks": "Spring Framework/MVC, Angular, ReactJS, Django, Node.js",
-  "tools": "Git, Eclipse, VS Code, PyCharm, Tomcat, Postman, MS-Office, R Studio, Gantt, Maven, Figma, Adobe (Photoshop, Illustrator)"
+  "tools": "Git, Eclipse, VS Code, PyCharm, Tomcat, Postman, MS-Office, R Studio, Gantt, Maven, Figma, Adobe"
   "os": "Linux, Windows, Mac",
   "databases": "MySQL, PostgreSQL"
 }

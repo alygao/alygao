@@ -11,14 +11,27 @@ I'm currently a Computer Science student at the University of Waterloo specializ
 - Personal Website
 
 ### ✨ Core Skills:
+<!-- 
 - **Languages/Technologies:** Java/JavaEE, SQL, R, Python, C/C++, HTML5, CSS3, JavaScript, TypeScript, REST API
 - **Frameworks:** Spring Framework, Spring Data, Spring Boot, Angular 10, ReactJS, Node.js, Django
 - **Tools:** Eclipse, Visual Studio Code, Pycharm, Git, Tomcat, Postman, MS-Office, R Studio, Gantt Chart, Maven, Figma, Adobe (Photoshop, Illustrator)
 - **Operating Systems:** Linux, Windows
 - **Databases:** MySQL 8/9, PostgreSQL
+-->
+
+``` yaml
+{
+  "languages": "Java, SQL, R, Python, C/C++, HTML, CSS, Javascript, TypeScript",
+  "frameworks": "Spring Framework/MVC, Angular, ReactJS, Django, Node.js",
+  "tools": "Git, Eclipse, VS Code, PyCharm, Tomcat, Postman, MS-Office, R Studio, Gantt, Maven, Figma, Adobe (Photoshop, Illustrator)"
+  "os": "Linux, Windows, Mac",
+  "databases": "MySQL, PostgreSQL"
+}
+```
 
 
-### 📧 Connect with Me: 
+### 📧 Connect with Me:
+Want to get in touch with me?  
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alyssa-gao/)](https://www.linkedin.com/in/alyssa-gao/) 
 
 

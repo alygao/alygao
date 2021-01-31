@@ -6,11 +6,10 @@
 
 # Hello, I'm Alyssa! 👋
 
-I'm currently a Computer Science student at the University of Waterloo specializing in Business. I'm a software developer who enjoys baking and bullet journaling in my free time. Currently, I am interning as a Data Engineer at [Ritual](https://ritual.co/).
+I'm currently a Computer Science student at the University of Waterloo specializing in Business. I'm a programmer who enjoys baking and cafe hopping in my free time. Currently, I am interning as a Data Engineer at [Ritual](https://ritual.co/).
 
 ### 🌱 Currently Working On:
-- Lo-fi Station
-- Personal Website
+I'm currently working on my personal website! Click [here](https://www.figma.com/file/gqg4ktE2PB3BhDFXTQ7xDs/Personal-Website?node-id=110%3A61) to see the Figma Designs!
 
 ### ✨ Core Skills:
 <!-- 

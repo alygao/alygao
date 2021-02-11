@@ -4,7 +4,7 @@
 </p>
 <!-- <img align='right' src="https://media2.giphy.com/media/tITrJUuCDr1bpNjIVi/source.gif" width="300"> -->
 
-# Hello, I'm Alyssa! 👋
+# Hello, I'm Alyssa! 👋🏻
 
 I'm currently a Computer Science student at the University of Waterloo specializing in Business. I'm a programmer who enjoys baking and cafe hopping in my free time. Currently, I am interning as a Data Engineer at [Ritual](https://ritual.co/).
 

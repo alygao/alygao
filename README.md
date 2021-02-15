@@ -15,7 +15,7 @@ I'm currently working on my personal website! Click [here](https://www.figma.com
 <!-- 
 - **Languages/Technologies:** Java/JavaEE, SQL, R, Python, C/C++, HTML5, CSS3, JavaScript, TypeScript, REST API
 - **Frameworks:** Spring Framework, Spring Data, Spring Boot, Angular 10, ReactJS, Node.js, Django
-- **Tools:** Eclipse, Visual Studio Code, Pycharm, Git, Tomcat, Postman, MS-Office, R Studio, Gantt Chart, Maven, Figma, Adobe (Photoshop, Illustrator)
+- **Tools:** Eclipse, Visual Studio Code, Pycharm, Git, Tomcat, Postman, MS-Office, R Studio, Gantt Chart, Maven, Airflow, Figma, Adobe (Photoshop, Illustrator)
 - **Operating Systems:** Linux, Windows
 - **Databases:** MySQL 8/9, PostgreSQL
 -->

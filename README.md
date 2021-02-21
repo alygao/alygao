@@ -1,7 +1,6 @@
 
 <p align="center">
-<!--   <img src="https://64.media.tumblr.com/ef7d6711d5725003221f835edf723a31/tumblr_orswviR7Yb1s35qyfo1_1280.gifv" width="500"> -->
-  <img src="https://lh3.googleusercontent.com/proxy/-zOrQotTgjroREiX1MJHPal1mRTI2JCXKN_nwKOTTdnv5gu6KOzCo8iXXmkq7AkrhAY4Wd_oHawhCgyMVN_NEpy4oE9fLb_wYWzqC8vEj75O8zIhf_nCWSz4dYgAGmKU_ZQnza2x" width="800">
+  <img src="https://64.media.tumblr.com/ef7d6711d5725003221f835edf723a31/tumblr_orswviR7Yb1s35qyfo1_1280.gifv" width="500">
 </p>
 <!-- <img align='right' src="https://media2.giphy.com/media/tITrJUuCDr1bpNjIVi/source.gif" width="300"> -->
 

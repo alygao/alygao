@@ -9,7 +9,7 @@
 I'm currently a Computer Science student at the University of Waterloo specializing in Business. I'm a programmer who enjoys baking and cafe hopping in my free time. Currently, I am interning as a Data Engineer at [Ritual](https://ritual.co/).
 
 ### 🌱 Currently Working On:
-I'm currently working on my personal website! Click [here](www.alyssagao.me) to view!
+I'm currently working on my personal website! Click [here](http://www.alyssagao.me/) to view!
 
 ### ✨ Core Skills:
 <!-- 

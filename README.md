@@ -23,7 +23,7 @@ I'm currently working on my personal website! Click [here](http://www.alyssagao.
 ``` yaml
 {
   "languages": "Java, SQL, R, Python, C/C++, HTML, CSS, Javascript, TypeScript",
-  "frameworks": "Spring Framework/MVC, Angular, ReactJS, Django, Node.js",
+  "frameworks": "Spring, Angular, ReactJS, Django, Node.js",
   "tools": "Git, Eclipse, VS Code, PyCharm, Tomcat, Postman, MS-Office, R Studio, Gantt, Maven, Figma, Adobe",
   "os": "Linux, Ubuntu, Windows, Mac",
   "databases": "MySQL, PostgreSQL"

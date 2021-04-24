@@ -6,7 +6,7 @@
 
 # Hello, I'm Alyssa! 👋🏻
 
-I'm currently a Computer Science student at the University of Waterloo specializing in Business. I'm a programmer who enjoys baking and cafe hopping in my free time. Currently, I am interning as a Data Engineer at [Ritual](https://ritual.co/).
+I'm currently a Computer Science student at the University of Waterloo specializing in Business. I'm a programmer who enjoys baking and cafe hopping in my free time. I've previously interned as a Data Engineer at [Ritual](https://ritual.co/) and will be looking for an internship in the upcoming Fall 2021 term.
 
 ### 🌱 Currently Working On:
 I'm currently working on my personal website! Click [here](http://www.alyssagao.me/) to view!
@@ -22,11 +22,12 @@ I'm currently working on my personal website! Click [here](http://www.alyssagao.
 
 ``` yaml
 {
-  "languages": "Java, SQL, R, Python, C/C++, HTML, CSS, Javascript, TypeScript",
+  "languages/technologies": "Java, SQL, R, Python, C/C++, HTML, CSS, Javascript, TypeScript, Kubernetes",
   "frameworks": "Spring, Angular, ReactJS, Django, Node.js",
-  "tools": "Git, Eclipse, VS Code, PyCharm, Tomcat, Postman, MS-Office, R Studio, Gantt, Maven, Figma, Adobe",
+  "tools": "Git, Eclipse, VS Code, PyCharm, IntelliJ, Postman, MS-Office, R Studio, Gantt, Figma, Adobe",
+  "apacheProjects": "Airflow, Beam, Maven, Tomcat"
   "os": "Linux, Ubuntu, Windows, Mac",
-  "databases": "MySQL, PostgreSQL"
+  "dbms/dataWarehouses/analytics": "MySQL, PostgreSQL, BigQuery, DBT, Snowflake, Dataflow"
 }
 ```
 

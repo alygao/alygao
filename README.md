@@ -4,7 +4,7 @@
 </p>
 <!-- <img align='right' src="https://media2.giphy.com/media/tITrJUuCDr1bpNjIVi/source.gif" width="300"> -->
 
-# Hello, I'm Alyssa! 👋🏻
+# Hello, I'm Alyssa! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 I'm currently a Computer Science student at the University of Waterloo specializing in Business. I'm a programmer who enjoys baking and cafe hopping in my free time. I've previously interned as a Data Engineer at [Ritual](https://ritual.co/) and will be looking for an internship in the upcoming Fall 2021 term.
 
@@ -31,6 +31,9 @@ I'm currently working on my personal website! Click [here](http://www.alyssagao.
 }
 ```
 
+<!--
+![Alyssa's GitHub stats](https://github-readme-stats.vercel.app/api?username=alyssagao1120&show_icons=true&theme=material-palenight&count_private=true)
+-->
 
 ### 📧 Connect with Me:
 Want to get in touch with me?  

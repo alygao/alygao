@@ -6,7 +6,9 @@
 
 # Hello, I'm Alyssa! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
-I'm currently a Computer Science student at the University of Waterloo specializing in Business. I'm a programmer who enjoys baking and cafe hopping in my free time. I've previously interned as a Data Engineer at [Ritual](https://ritual.co/) and will be looking for an internship in the upcoming Fall 2021 term.
+I'm currently a Computer Science student at the University of Waterloo specializing in Business. I've previously interned as a Data Engineer at [Ritual](https://ritual.co/) and will be looking for an internship in the upcoming Fall 2021 term.
+
+When I’m not coding away at a project or studying for finals, I am learning new recipes, cafe hopping, travelling, gaming and volunteering.
 
 ### 🌱 Currently Working On:
 I'm currently working on my personal website! Click [here](http://www.alyssagao.me/) to view!

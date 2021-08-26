@@ -9,8 +9,7 @@
 I'm a Computer Science student at the University of Waterloo specializing in Business. I've previously interned as a Data Engineer at [Ritual](https://ritual.co/) and will be working as a Software Developer at [RBC](https://rbcroyalbank.com) for the upcoming Fall 2021 term.
 
 <!-- #### 🍡 Fun Facts: -->
-I'm a huge cat lover and baker. When I’m not coding away at a project or studying for finals, I enjoy travelling, binge-watching shows, playing Valorant and ice skating. 
-strong googling skills
+I'm a huge cat lover and foodie. When I’m not coding away at a project or studying for finals, I enjoy travelling, binge-watching shows, playing Valorant and ice skating.
 
 <!-- ### 🌱 Currently Working On:
 I'm currently working on my personal website! Click [here](http://www.alyssagao.me/) to view! -->

@@ -17,7 +17,7 @@ I'm currently working on my personal website! Click [here](http://www.alyssagao.
 ### ✨ Technical Skills:
 - **Languages/Technologies**: Java, Python, C/C++, SQL, R, JavaScript, TypeScript, Docker, Kubernetes, HTML, CSS
 - **Frameworks**: React, Angular, Spring, Django, Node.js
-- **Tools**: Git, Eclipse, VS Code, PyCharm, IntelliJ, Postman, Figma, MS-Office, R Studio, Gantt, Adobe
+- **Tools**: Git, Eclipse, VS Code, PyCharm, IntelliJ, Postman, Figma, Maven, Tomcat, Airflow, Beam, MS-Office, R Studio, Gantt, Adobe
 <!--  
 ``` yaml
 

@@ -6,7 +6,7 @@
 
 # Hello, I'm Alyssa! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
-I'm a Computer Science student at the University of Waterloo specializing in Business. I've previously interned as a Data Engineer at [Ritual](https://ritual.co/) and will be working as a Software Developer at [RBC](https://rbcroyalbank.com) for the upcoming Fall 2021 term.
+I'm a Computer Science student at the University of Waterloo specializing in Business. I'm currently interning as a Software Developer at [RBC](https://rbcroyalbank.com) for the  Fall 2021 term and have previously interned as a Data Engineer at [Ritual](https://ritual.co/).
 
 <!-- #### 🍡 Fun Facts: -->
 I'm a huge cat lover and foodie. When I’m not coding away at a project or studying for finals, I enjoy travelling, binge-watching shows, playing Valorant and ice skating.

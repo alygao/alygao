@@ -15,9 +15,8 @@ I'm a huge cat lover and foodie. When I’m not coding away at a project or stud
 I'm currently working on my personal website! Click [here](http://www.alyssagao.me/) to view! -->
 
 ### ✨ Technical Skills:
-- **Languages/Technologies**: Java, Python, C/C++, SQL, R, JavaScript, TypeScript, Docker, Kubernetes, HTML, CSS
-- **Frameworks**: React, Angular, Spring, Django, Node.js, Express.js
-- **Tools**: Git, Eclipse, VS Code, PyCharm, IntelliJ, Postman, Figma, Maven, Tomcat, Airflow, Beam, MS-Office, R Studio, Gantt, Adobe
+- **Languages/Technologies**: Java, Python, SQL, C/C++, R, TypeScript, JavaScript, HTML, CSS, Docker, Kubernetes, Bash
+- **Frameworks/Tools**: React, Angular, Node.js, Express.js, Django, REST API, Spring Framework, MongoDB, Git, GCP
 <!--  
 ``` yaml
 

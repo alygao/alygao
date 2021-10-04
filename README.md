@@ -17,22 +17,6 @@ I'm currently working on my personal website! Click [here](http://www.alyssagao.
 ### ✨ Technical Skills:
 - **Languages/Technologies**: Java, Python, SQL, C/C++, R, TypeScript, JavaScript, HTML, CSS, Docker, Kubernetes, Bash
 - **Frameworks/Tools**: React, Angular, Node.js, Express.js, Django, REST API, Spring Framework, MongoDB, Git, GCP
-<!--  
-``` yaml
-
-{
-  "languages/technologies": "Java, SQL, R, Python, C/C++, HTML, CSS, Javascript, TypeScript, Kubernetes",
-  "frameworks": "Spring, Angular, ReactJS, Django, Node.js",
-  "tools": "Git, Eclipse, VS Code, PyCharm, IntelliJ, Postman, MS-Office, R Studio, Gantt, Figma, Adobe",
-  "apacheProjects": "Airflow, Beam, Maven, Tomcat",
-  "os": "Linux, Ubuntu, Windows, Mac",
-  "dbms/dataWarehouses/analytics": "MySQL, PostgreSQL, BigQuery, DBT, Snowflake, Dataflow"
-}
-```
--->
-
-
-<!-- ![Alyssa's GitHub stats](https://github-readme-stats.vercel.app/api?username=alyssagao1120&show_icons=true&theme=material-palenight&count_private=true) -->
 
 
 ### 📧 Connect with Me:
@@ -42,17 +26,6 @@ I'm currently working on my personal website! Click [here](http://www.alyssagao.
 [![Outlook Badge](https://img.shields.io/badge/-alyssa.gao-yellow?style=flat&logo=Gmail&logoColor=white&link=mailto:alyssa.gao@uwaterloo.ca)](mailto:alyssa.gao@uwaterloo.ca)  
 I am currently exploring Winter and Spring 2022 internship opportunities. Please feel free to reach out to me!  
 
-
-<!-- [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alyssa-gao/)  -->
-<!-- [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/itsalyssagao/) 
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alyssa.gao/) 
-[![Spotify Badge](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/f4bt5j7w0kiyxxh2b7qgk0nun?si=34ae31275c5c4eb8) 
-[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:alyssa.gao@uwaterloo.ca) -->
-
-
-
-<!--
-**alyssagao1120/alyssagao1120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

@@ -26,7 +26,7 @@ I'm currently working on my personal website! Click [here](http://www.alyssagao.
 [![Outlook Badge](https://img.shields.io/badge/-alyssa.gao-yellow?style=flat&logo=Gmail&logoColor=white&link=mailto:alyssa.gao@uwaterloo.ca)](mailto:alyssa.gao@uwaterloo.ca)  
 I am currently exploring Winter and Spring 2022 internship opportunities. Please feel free to reach out to me!  
 
-
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

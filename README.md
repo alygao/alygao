@@ -4,7 +4,7 @@
 ### Nice to meet you, I'm Alyssa! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 I am currently exploring Summer 2023 internship opportunities. Please feel free to [reach out](https://www.linkedin.com/in/alyssa-gao/)!
 - 💻 &nbsp; I'm majoring in Computer Science (w/ a specialization in Business) at the University of Waterloo
-- 🚘 &nbsp; I'm currently interning as a Software Engineer at [Tesla](https://tesla.com)
-- 🏦 &nbsp; I've previously interned as a Software Developer at [RBC](https://rbcroyalbank.com) and Data Engineer at [Ritual](https://ritual.co/)
+- 🚘 &nbsp; I'm currently interning as a Backend Engineer at [LinkedIn](https://linkedin.com)
+- 🏦 &nbsp; I've previously interned at [Tesla](https://tesla.com), [RBC](https://rbcroyalbank.com) and [Ritual](https://ritual.co/)
 - 😊 &nbsp; Pronouns: she/her
 - 🍡 &nbsp; Did you know I'm a huge foodie - ask me for a food recommendation!

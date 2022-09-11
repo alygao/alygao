@@ -5,6 +5,6 @@
 I am currently exploring Summer 2023 internship opportunities. Please feel free to [reach out](https://www.linkedin.com/in/alyssa-gao/)!
 - 💻 &nbsp; I'm majoring in Computer Science (w/ a specialization in Business) at the University of Waterloo
 - 🚘 &nbsp; I'm currently interning as a Backend Engineer at [LinkedIn](https://linkedin.com)
-- 🏦 &nbsp; I've previously interned at [Tesla](https://tesla.com), [RBC](https://rbcroyalbank.com) and [Ritual](https://ritual.co/)
+- 🏦 &nbsp; I've previously interned at [Tesla](https://tesla.com), [RBC](https://rbc.com) and [Ritual](https://ritual.co/)
 - 😊 &nbsp; Pronouns: she/her
 - 🍡 &nbsp; Did you know I'm a huge foodie - ask me for a food recommendation!
